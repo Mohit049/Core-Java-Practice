@@ -37,3 +37,8 @@ class  First
                 System.out.println("Boolean value : "+bool);
             }
         }
+
+
+        //0b101 --- is a binary number  (0b is used to specify that it is a binary number)
+
+        //0x7E --- is a hexadecimal number
