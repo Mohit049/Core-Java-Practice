@@ -20,7 +20,7 @@ a++; //post increment (first assign then increment)
 
         //Relational operator --- <,>,<=,>=,==,!=
     
-    System.out.println(5>7);  //Relatiional operator always return boolean values i.e true or false in JAVA
+    System.out.println(5>7);  //Relational operator always return boolean values i.e true or false in JAVA
     
     //Logical operators --- &&(and) ||(or) !(not)
 

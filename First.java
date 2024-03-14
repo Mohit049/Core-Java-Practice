@@ -9,6 +9,7 @@
 class  First 
 {
 
+
 //Use Tab for better indentation -- first select that code and then hit tab
             public static void main(String  a[])
             {
@@ -33,7 +34,7 @@ class  First
                 System.out.println("Character : "+che);
 
                 //boolean here is written as true or false not 0 or 1 , like in other languages
-                boolean bool=true;
+                    boolean bool=true;
                 System.out.println("Boolean value : "+bool);
             }
         }
