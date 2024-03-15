@@ -5,7 +5,7 @@ public class Fourth {
         int x=4;
 
       
-        if(false)
+        if(x<5)
 
         System.out.println("You're in if part");
 
@@ -32,10 +32,15 @@ public class Fourth {
        
  
         
-    default ->System.out.println("idk"); // result will be bit different cause we are not using break here
-        
+    default -> // result will be bit different cause we are not using break here
+                  System.out.println(2+3*5);
     case 2->System.out.println("number is 2");
         // new type of writing switch using -> 
  }
+
+
+ // if you don't want to use arrow then type yield after colon 
+ //for ex --
+ // case 1:yield "hi";    
 }
 }
