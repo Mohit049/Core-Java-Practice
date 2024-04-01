@@ -26,7 +26,7 @@ public static void main(String a[]){
 
             //for loop
             for(int i=0;i<5;i++){
-                System.out.println("    " + i+1);
+                System.out.println("    " + (i+1));
             }
             //sometimes print statement treats a number like a string when there are other strings too for ex in above code
            
@@ -53,6 +53,6 @@ public static void main(String a[]){
 //useful vs code keyoard shortcut --
 
 
-//--- ctrl +shift + l ---  to get multiple cursor at words present multple times
+//--- ctrl +shift + L---  to get multiple cursor at words present multple times
 
 //mouse click + alt and then click wherever you want multiple cursors to be
